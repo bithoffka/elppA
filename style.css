@@ -42,3 +42,7 @@ p {
 .link:hover {
   text-decoration: underline;
 }
+.globalization {
+  text-align: right;
+  margin-right: 15px;
+}
