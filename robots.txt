@@ -2,4 +2,4 @@
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://bithoffka.github.io/elppA/sitemap.xml
+Sitemap: https://elppa.cf/sitemap.xml
