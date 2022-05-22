@@ -31,6 +31,7 @@ p {
   margin-bottom: 10px;
   border-radius: 10px;
   border-color: black;
+  box-shadow: none;
 }
 .button:hover {
   opacity: 0.9;
@@ -45,4 +46,10 @@ p {
 .globalization {
   text-align: right;
   margin-right: 15px;
+}
+.inner-container {
+  background-color: white;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px;
 }
