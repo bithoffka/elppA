@@ -65,7 +65,8 @@
     </div>
   <div class="container">
     <h2>Отправить форму</h2>
-    <form action="#" style="padding: 50px" name="ContactElppA" method="POST" data-netlify="true" onSubmit="submit">
+    <form action="#" style="padding: 50px" name="ContactElppA" method="POST" data-netlify="true" onSubmit="submit" data-netlify-honeypot="bot">
+      <input name="bot" style="display: none;">
       <label for="name">Ваше имя:</label>
       <input style="background: none; height: 25px; width: 100%; text-align: center; outline: none; border-radius: 10px;" type="text" name="name">
       <label for="message">Ваше сообщение</label>
